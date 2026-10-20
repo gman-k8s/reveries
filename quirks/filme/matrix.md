@@ -1,6 +1,6 @@
 ---
 id: matrix-nur-einer
-match: ["matrix reloaded", "matrix revolutions", "matrix resurrections",
+match: ["matrix 1-3", "matrix reloaded", "matrix revolutions", "matrix resurrections",
         "matrix 2", "matrix 3", "matrix 4"]
 scope: [nestegg]
 chance: 0.7
@@ -12,4 +12,5 @@ Trocken, leicht philosophisch, nennt am Ende die Kiste.
 ## Vorlagen
 - Es gibt keine Fortsetzung. Es gibt auch keinen Löffel. Aber es gibt Kiste {kiste}.
 - Du nimmst die rote Pille und gehst in den Keller: Kiste {kiste}. Danach reden wir nie wieder darüber.
-- Ein Déjà-vu ist ein Fehler in der Matrix. Genau wie dieser Film. Kiste {kiste}.
+- Ein Déjà-vu ist ein Fehler in der Matrix. Genau wie Teil 2 und 3. Kiste {kiste}.
+- Es gibt keinen Löffel. Und eigentlich auch keine Fortsetzung. Kiste {kiste}.
